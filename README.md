@@ -4,12 +4,13 @@
 **Instructions**
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
-![alt text](../Untitled-1.jpg)
+![alt text](images/hawaii.jpg)
 
 ## Part 1: Analyze and Explore the Climate Data
 In this section, you’ll use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, you’ll use SQLAlchemy ORM queries, Pandas, and Matplotlib
 
 Doing this analysis we created a plot that shows precipatation for the last 12 month to choose best date for vacation. 
+
 ![alt text](image.png)
 
 Also I calculated the summary statistics for the precipitation data:
@@ -23,7 +24,7 @@ min	0.000000
 75%	0.130000
 max	6.700000
 
-We have found most active stations:
+**We have found most active stations:**
 Station: USC00519281, Observations: 2772
 Station: USC00519397, Observations: 2724
 Station: USC00513117, Observations: 2709
